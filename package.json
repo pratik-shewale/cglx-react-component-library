@@ -1,5 +1,5 @@
 {
-  "name": "react-component-library",
+"name": "cglx-react-component-library",
   "version": "1.0.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -27,6 +27,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pratik-shewale/react-component-library.git"
+    "url": "git+https://github.com/pratik-shewale/cglx-react-component-library.git"
   },
 }
